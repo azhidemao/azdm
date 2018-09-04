@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/azdm.iml" filepath="$PROJECT_DIR$/azdm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azdm-account/azdm-account.iml" filepath="$PROJECT_DIR$/azdm-account/azdm-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azdm-config/azdm-config.iml" filepath="$PROJECT_DIR$/azdm-config/azdm-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azdm-eureka/azdm-eureka.iml" filepath="$PROJECT_DIR$/azdm-eureka/azdm-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azdm-order/azdm-order.iml" filepath="$PROJECT_DIR$/azdm-order/azdm-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azdm-zuul/azdm-zuul.iml" filepath="$PROJECT_DIR$/azdm-zuul/azdm-zuul.iml" />
+    </modules>
+  </component>
+</project>

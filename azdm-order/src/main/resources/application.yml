@@ -1,0 +1,15 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: azdm-order
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8889/eureka/
+
+feign:
+  hystrix:
+    enabled: true

@@ -1,0 +1,19 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8889/eureka/
+spring:
+  application:
+    name: azdm-config
+  cloud:
+    config:
+      label:
+      server:
+        git:
+          uri: https://github.com/azhidemao/azdm/
+          searchPaths: config
+          username:
+          password:
+          force-pull: true
+server:
+  port: 8886
